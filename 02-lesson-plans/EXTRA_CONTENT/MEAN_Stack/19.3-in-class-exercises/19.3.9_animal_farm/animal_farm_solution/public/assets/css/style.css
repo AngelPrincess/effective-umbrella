@@ -1,0 +1,52 @@
+body {
+  background-color: #ccffcc;
+  height: 2000px;
+}
+
+#title {
+  padding-bottom: 12px;
+  color: crimson;
+  font-weight: bold;
+}
+
+.green {
+  color: seagreen;
+}
+
+#work {
+  padding-top: 20px;
+}
+
+#market {
+  margin: 10px;
+  padding: 10px;
+  font-size: 22px;
+  color: darkcyan;
+  font-weight: bold;
+}
+
+#barn {
+  margin: auto;
+  width: 300px;
+  font-size: 24px;
+  padding: 6px;
+  color: maroon;
+  border: solid;
+  margin-bottom: 12px;
+}
+
+.anim-friend {
+  width: 250px;
+  height: 250px;
+  border: solid;
+  ;
+  padding: 2px;
+  margin: 4px;
+  background-color: khaki;
+  opacity: .85;
+}
+
+.anim-friend:hover {
+  background-color: violet;
+  opacity: 1;
+}
